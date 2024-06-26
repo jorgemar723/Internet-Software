@@ -1,0 +1,55 @@
+.App {
+  justify-content: space-between;
+}
+
+.books-list {
+  flex: 1;
+  margin-left: 20px; 
+  top:50px
+}
+
+.get-book-by-id {
+  width: 300px;
+  position: absolute; 
+  top: 50px;
+  left: 1200px
+  
+}
+
+.add-new-book {
+  width: 300px;
+  position: absolute; 
+  top: 470px;
+  left: 1200px
+}
+
+.delete-book-by-id
+{
+  width: 300px;
+  position: absolute; 
+  top: 750px;
+  left: 1200px
+}
+h1 {
+  color: black;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  color: black;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+p {
+  color: black; 
+}
